@@ -7,6 +7,9 @@
     <groupId>org.wso2.carbon.utility.greg.projectasset</groupId>
     <artifactId>ProjectAssetGReg</artifactId>
     <version>1.0</version>
+    <dependencies>
+
+    </dependencies>
 
 
 </project>
